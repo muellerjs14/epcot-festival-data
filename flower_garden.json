@@ -1,0 +1,13 @@
+[
+  {
+    "booth": "Example Booth",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "items": [
+      {
+        "name": "Sample Item",
+        "description": "Description goes here"
+      }
+    ]
+  }
+]
