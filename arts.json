@@ -168,8 +168,8 @@
 }
 {
   "booth": "El Artista Hambriento",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.37156,
+  "longitude": 81.54804,
   "items": [
     {
       "name": "Chile Relleno Taco",
@@ -205,8 +205,8 @@
 }
 {
   "booth": "Kringla Bakeri Og Kafe",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.37105,
+  "longitude": 81.54705,
   "items": [
     {
       "name": "Hazelnut Praline Boller",
@@ -217,8 +217,8 @@
 }
 {
   "booth": "The Painted Panda",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.37014,
+  "longitude": 81.54695,
   "items": [
     {
       "name": "General Tso’s Chicken Shumai",
@@ -259,8 +259,8 @@
 }
 {
   "booth": "Refreshment Outpost",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36924,
+  "longitude": 81.54638,
   "items": [
     {
       "name": "Artist Palette Jumbo Chocolate Chip Cookie",
@@ -291,8 +291,8 @@
 }
 {
   "booth": "Pastoral Palate",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36860,
+  "longitude": 81.54675,
   "items": [
     {
       "name": "Red Wine-braised Beef Short Rib",
@@ -333,8 +333,8 @@
 }
 {
   "booth": "L’Arte di Mangiare",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36825,
+  "longitude": 81.54783,
   "items": [
     {
       "name": "Mozzarella Fritta",
@@ -390,8 +390,8 @@
 }
 {
   "booth": "The Artist’s Table",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36783,
+  "longitude": 81.54981,
   "items": [
     {
       "name": "Steakhouse Lobster Caesar Salad",
@@ -422,8 +422,8 @@
 }
 {
   "booth": "Funnel Cake",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36800,
+  "longitude": 81.54987,
   "items": [
     {
       "name": "Wild Berry Funnel Cake",
@@ -434,8 +434,8 @@
 }
 {
   "booth": "Goshiki",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36815,
+  "longitude": 81.55072,
   "items": [
     {
       "name": "Taiyaki",
@@ -486,8 +486,8 @@
 }
 {
   "booth": "Tangierine Café: Flavors of the Medina",
-  "latitude": 0.0,
-  "longitude": 0.0,
+  "latitude": 28.36835,
+  "longitude": 81.55179,
   "items": [
     {
       "name": "Moroccan Wrap",
