@@ -1,13 +1,848 @@
-[
-  {
-    "booth": "Example Booth",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "items": [
-      {
-        "name": "Sample Item",
-        "description": "Description goes here"
-      }
-    ]
-  }
-]
+{
+  "booth": "Opening Bites",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Soft Shell Crab Slider",
+      "description": "Green papaya slaw and mango ketchup on a sweet roll",
+      "type": "food"
+    },
+    {
+      "name": "Enchanted Rose",
+      "description": "Dark chocolate mousse rose",
+      "type": "food"
+    },
+    {
+      "name": "Crooked Can Brewing Company Fantasia Fusion IPA",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "von Trapp Brewing Bohemian Pilsner",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Southern Tier Brewing Co. Caramel Cookie Bar Imperial Stout (New)",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Beer Flight",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Charles Heidsieck Brut Réserve Champagne",
+      "description": "",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Connections Eatery",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "BBQ Chicken Pizza",
+      "description": "Two slices of freshly baked pizza topped with smoked chicken, sweet barbecue sauce, cheese blend, peppers, and red onions (New)",
+      "type": "food"
+    },
+    {
+      "name": "Nashville Hot Chicken Sandwich",
+      "description": "Spicy hand-breaded chicken, roasted garlic aïoli, and southern slaw on a toasted brioche bun (New)",
+      "type": "food"
+    },
+    {
+      "name": "Classic Mojito with mint foam",
+      "description": "(New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "The Deconstructed Dish",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Deconstructed BLT",
+      "description": "Pork belly, soft-poached egg, onion bread pudding, watercress espuma, and tomato jam",
+      "type": "food"
+    },
+    {
+      "name": "Deconstructed Key Lime Pie",
+      "description": "Key lime curd, key lime gelée, toasted meringue, and graham cracker crumbs with waffle cone triangles (New)",
+      "type": "food"
+    },
+    {
+      "name": "Deconstructed Strawberry Mint Julep",
+      "description": "Frozen mint and simple syrup blended with strawberry purée (Non-alcoholic beverage)",
+      "type": "beverage"
+    },
+    {
+      "name": "Wicked Weed Brewing Blank Canvas Wheat Ale",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Deconstructed Strawberry Mint Julep with Old Forester 86 Bourbon",
+      "description": "Frozen mint and simple syrup blended with strawberry purée with Old Forester 86 Bourbon",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Figment’s Inspiration Station at The Odyssey",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Popcorn, Popcorn Chicken and Waffles",
+      "description": "Popcorn chicken, waffles, rainbow popcorn, mini mozzarella, and maple syrup (New)",
+      "type": "food"
+    },
+    {
+      "name": "Figment Fantasy Cake",
+      "description": "Sponge cake filled with strawberry whipped cream topped with a white chocolate ganache, orange icing, and white chocolate Figment wings (New)",
+      "type": "food"
+    },
+    {
+      "name": "Color Scheme Cake",
+      "description": "Fruit-flavored rainbow-hued cake topped with SKITTLES POP’d Sour and Original Freeze Dried Candy (New)",
+      "type": "food"
+    },
+    {
+      "name": "Figment Artist Bucket with Rainbow Popcorn",
+      "description": "Available while supplies last via mobile order only, limit two per person, per transaction",
+      "type": "food"
+    },
+    {
+      "name": "Figment Imagination Lemonade",
+      "description": "Simply Lemonade with choice of flavor (Non-alcoholic beverage)",
+      "type": "beverage"
+    },
+    {
+      "name": "3 Daughters Brewing Black Cherry Hard Cider",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "3 Daughters Brewing Orange Cream Hard Cider",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "3 Daughters Brewing Strawberry Banana Hard Cider",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Hard Cider Flight",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Brouwerij Huyghe Floris Cactus Belgian Wheat Ale",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Playalinda Brewing Co. Port of Blue Stout",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "The Bruery Enticing Boysenberry Sour Blonde Ale",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Beer Flight",
+      "description": "",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "El Artista Hambriento",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Chile Relleno Taco",
+      "description": "Flour tortilla filled with seared beef tenderloin, poblano pepper, black beans, and salsa roja (New)",
+      "type": "food"
+    },
+    {
+      "name": "Tostada de Cangrejo",
+      "description": "Crispy corn tortilla topped with guacamole, lump crab, mango, crispy onions, and hot sauce (New)",
+      "type": "food"
+    },
+    {
+      "name": "Passion Fruit Paleta",
+      "description": "Tropical passion fruit ice pop filled with sweetened condensed milk and topped with chili-lime seasoning (New)",
+      "type": "food"
+    },
+    {
+      "name": "Mexican Craft Beer",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Matcharita",
+      "description": "Contraluz Reposado Cristalino Tequila, matcha tea, strawberry liqueur, and sweet cream (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Pear-fect Margarita",
+      "description": "Calenda Mezcal Joven, prickly pear purée, passion fruit purée, and LeJay Crème de Cassis with a potpourri salt rim (New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Kringla Bakeri Og Kafe",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Hazelnut Praline Boller",
+      "description": "Cardamom bun with hazelnut cream (New)",
+      "type": "food"
+    }
+  ]
+}
+{
+  "booth": "The Painted Panda",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "General Tso’s Chicken Shumai",
+      "description": "Dumplings filled with chicken, asparagus, onion, and water chestnut topped with General Tso’s sauce (New)",
+      "type": "food"
+    },
+    {
+      "name": "Char Siu Pork Bun",
+      "description": "Sweet-and-savory Cantonese-style BBQ pork in a steamed bun (New)",
+      "type": "food"
+    },
+    {
+      "name": "Egg Tart",
+      "description": "Hong Kong-style egg custard tart",
+      "type": "food"
+    },
+    {
+      "name": "Strawberry Bubble Milk Tea",
+      "description": "Non-alcoholic beverage",
+      "type": "beverage"
+    },
+    {
+      "name": "Dragonfruit Lager",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Silk River Hard Lemonade",
+      "description": "Vodka, lavender-coconut syrup, and Minute Maid Premium Lemonade",
+      "type": "beverage"
+    },
+    {
+      "name": "Butterfly Blue",
+      "description": "Butterfly pea flower-infused cocktail with vodka, light rum, lychee syrup, and crystal boba pearls",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Refreshment Outpost",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Artist Palette Jumbo Chocolate Chip Cookie",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Boyd & Blair Blood Orange Cosmo",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Parish Brewing Co. Blueberry Mochi Berliner Weisse",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Brewlando Liquid Art Pilsner",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Wicked Weed Brewing Abstract Blonde Ale",
+      "description": "(New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Pastoral Palate",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Red Wine-braised Beef Short Rib",
+      "description": "Parsnip purée, broccolini, baby tomatoes, and balsamic glaze",
+      "type": "food"
+    },
+    {
+      "name": "Black Forest Cake",
+      "description": "Chocolate mousse with morello cherries and chantilly cream",
+      "type": "food"
+    },
+    {
+      "name": "3 Daughters Brewing Rosé Hard Cider",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "81Bay Brewing Co. Rosé Blonde Ale",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Frozen Rosé",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "A Play on Rosé Flight",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Hex Vom Dasenstein Pinot Noir",
+      "description": "(New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "L’Arte di Mangiare",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Mozzarella Fritta",
+      "description": "Flash-fried breaded fresh mozzarella with artist palette condiments",
+      "type": "food"
+    },
+    {
+      "name": "Polenta Pasticciata",
+      "description": "Polenta, bolognese, Parmesan, mozzarella, and tomato sauce (New)",
+      "type": "food"
+    },
+    {
+      "name": "Raspberry Spuma",
+      "description": "Vanilla sauce, mint whipped cream, and puffed rice (New)",
+      "type": "food"
+    },
+    {
+      "name": "Peroni Pilsner",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Prosecco",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Moscato",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Chianti",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Italian Red Sangria",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Italian-inspired Margarita",
+      "description": "Tequila and Fabrizia Blood Orange Liqueur (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Sicilian Sunrise",
+      "description": "Canella Granriviera Mimosa and Luxardo Aperitivo (New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "The Artist’s Table",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Steakhouse Lobster Caesar Salad",
+      "description": "Romaine and red oak lettuces, warmwater lobster, radish, herbed breadcrumbs, and house-made Caesar dressing (New)",
+      "type": "food"
+    },
+    {
+      "name": "Peppercorn-crusted Striploin",
+      "description": "Grilled asparagus, potatoes au gratin, and au poivre butter (New)",
+      "type": "food"
+    },
+    {
+      "name": "Dark Chocolate Torte",
+      "description": "Flourless chocolate cake, whipped cream, and raspberries (New)",
+      "type": "food"
+    },
+    {
+      "name": "Playalinda Brewing Co. Old Fashioned Playa Ale",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Caymus Cabernet Sauvignon",
+      "description": "",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Funnel Cake",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Wild Berry Funnel Cake",
+      "description": "Funnel cake sandwich with vanilla ice cream and powdered sugar topped with brown sugar brandy-wild berry compote, whipped cream, and dark chocolate sauce (New)",
+      "type": "food"
+    }
+  ]
+}
+{
+  "booth": "Goshiki",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Taiyaki",
+      "description": "Crisp, flaky fish-shaped chocolate-flavored pastry filled with custard and served with whipped topping (New)",
+      "type": "food"
+    },
+    {
+      "name": "Sushi Doughnut",
+      "description": "Doughnut-shaped sushi with salmon, tuna, shrimp, cucumber, and sesame seeds over a decorated plate of wasabi aïoli, sriracha aïoli, and eel sauce",
+      "type": "food"
+    },
+    {
+      "name": "Tokyo Kawaii Roll",
+      "description": "Crispy shrimp tempura wrapped in multicolor sushi rice and topped with refreshing yellow yuzu sauce and tangy plum sauce (New)",
+      "type": "food"
+    },
+    {
+      "name": "Wagyu Bun",
+      "description": "Steamed bun filled with sweet-and-savory minced American wagyu beef (New)",
+      "type": "food"
+    },
+    {
+      "name": "Grapey Apple Boba",
+      "description": "Crafted black grape beverage with green apple popping boba (Non-alcoholic beverage) (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Crooked Can Brewing Company Wasabi IPA",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Masu Sake",
+      "description": "Served in a traditional personalized wooden cup",
+      "type": "beverage"
+    },
+    {
+      "name": "Sake Flight",
+      "description": "Peach, mango, and strawberry-flavored Nigori sake (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Yuzu-Pineapple Punch",
+      "description": "Shochu-based cocktail with refreshing yuzu and pineapple flavors (New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Tangierine Café: Flavors of the Medina",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Moroccan Wrap",
+      "description": "Tomato-cucumber relish and garlic sauce served on warm Moroccan flatbread",
+      "type": "food"
+    },
+    {
+      "name": "Chermoula Chicken",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Moroccan-spiced Lamb",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Plant-based Falafel",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Stone-baked Moroccan Bread",
+      "description": "Served with assorted dips",
+      "type": "food"
+    },
+    {
+      "name": "Rekorderlig Strawberry-Lime Hard Cider",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Keel Farms Blueberry Lavender Hard Cider",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Blake’s Hard Cider Co. Pomegranate Fizz Hard Cider",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Hard Cider Flight",
+      "description": "",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Vibrante & Vívido: Encanto Cocina",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Chorizo and Potato Empanada",
+      "description": "Served with turmeric aïoli and annatto aïoli",
+      "type": "food"
+    },
+    {
+      "name": "Spicy Ajiaco Soup",
+      "description": "Guajillo and árbol chili-spiced chicken, potato, avocado, corn, and crème fraîche",
+      "type": "food"
+    },
+    {
+      "name": "Passion Fruit-filled Mango Cheesecake",
+      "description": "Coconut-pineapple cake, dragon fruit gelée, and dragon fruit-strawberry sauce",
+      "type": "food"
+    },
+    {
+      "name": "Layered Berry-Piña Colada Smoothie",
+      "description": "Wild berry, piña colada, and strawberry (Non-alcoholic beverage)",
+      "type": "beverage"
+    },
+    {
+      "name": "Collective Arts Brewing Guava Dream Blonde Ale",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Layered Berry-Piña Colada Smoothie with Spiced Rum",
+      "description": "Wild berry, piña colada, and strawberry with spiced rum",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "L’Art de la Cuisine Française",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Crème de Brie en Petit Pain",
+      "description": "Warm creamy brie in a house-made bread bowl",
+      "type": "food"
+    },
+    {
+      "name": "Gâteau de Crabe, Bisque de Homard, Crème Citron et Aneth",
+      "description": "Crab cake, lobster bisque, and lemon-dill sour cream (New)",
+      "type": "food"
+    },
+    {
+      "name": "Éclair au Chocolat et à l’Orange",
+      "description": "Chocolate-orange éclair, orange cream, chocolate ganache, crispy hazelnut, and candied oranges (New)",
+      "type": "food"
+    },
+    {
+      "name": "Chardonnay, Laroque, Cite de Carcassonne",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Charles Lafitte, Brut Rosé Prestige, Méthode Traditionnel Champenoise",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Frozen French Martini",
+      "description": "Grey Goose Vodka, Vodka, Chambord Liqueur, DOLE Pineapple Juice, Minute Maid Orange Juice, and grape juice with lemon-lime foam",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Gourmet Landscapes",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Wild Mushroom Risotto",
+      "description": "Aged Parmesan, truffle shavings, and zinfandel reduction (Plant-based)",
+      "type": "food"
+    },
+    {
+      "name": "Roasted Bone Marrow",
+      "description": "Onion marmalade, pickled mushrooms, and petite lettuce",
+      "type": "food"
+    },
+    {
+      "name": "Citrus-braised Beet Tartare",
+      "description": "Golden beet “egg yolk,” mustard vinaigrette, pickled mustard seeds, pickled mushrooms, spiced pistachios, and “feta” snow (Plant-based)",
+      "type": "food"
+    },
+    {
+      "name": "Whole Hog Brewery Raspberry Chéret Double Radler",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Schlumberger Cuvée Klimt Brut",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Orin Swift Abstract California Red Blend",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Frozen Scotch Cocktail",
+      "description": "Scotch and Twinings Chai Tea garnished with a chocolate snail",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Fictional Victuals",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Chapter 1: Beach Oysters",
+      "description": "Grilled oysters, mustard seed-peppercorn sabayon, and creamed spinach (New)",
+      "type": "food"
+    },
+    {
+      "name": "Chapter 2: Plate of Impossible Bites",
+      "description": "Roasted turkey breast, onion and bacon custard tart, cherry gel, brown butter toast milk foam, and pineapple-toffee butter (New)",
+      "type": "food"
+    },
+    {
+      "name": "Chapter 3: Tea Treat",
+      "description": "Twinings Earl Grey Tea Treat Chocolate Pot de Crème, lemon madeleine, rose and raspberry jam, and a tea biscuit crumble (New)",
+      "type": "food"
+    },
+    {
+      "name": "Upside Down Shake",
+      "description": "Yellow cake soft-serve featuring Twinings English Breakfast Tea (Non-alcoholic beverage) (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Central 28 Beer Company Rose Garden Red Ale",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Upside Down Shake with Whipped Cream Vodka",
+      "description": "Yellow cake soft-serve with Twinings English Breakfast Tea and whipped cream vodka (New)",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Deco Delights",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Sparkling Spectacle Gâteau",
+      "description": "Vanilla bean mousse with a golden caramel center and apricot jam on a hazelnut cookie (New)",
+      "type": "food"
+    },
+    {
+      "name": "Crooked Can Brewing Company Buttercream Fresco",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Keel Farms Strawberry Shortcake Hard Cider",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Boyd & Blair Espresso Martini",
+      "description": "",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Pop Eats",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Grilled Cheese",
+      "description": "Served with tomato soup",
+      "type": "food"
+    },
+    {
+      "name": "Croque Monsieur-inspired Grilled Cheese",
+      "description": "Black Forest ham, Gruyère, and béchamel sauce served with tomato soup (New)",
+      "type": "food"
+    },
+    {
+      "name": "Gulf Stream Brewing Company Pixel Perfect Pilsner",
+      "description": "(New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Blanc de Bleu Cuvée Mousseux",
+      "description": "Served with fruit juice-filled pearls",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Swirled Showcase",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Pink Vanilla Soft-serve in a Cone",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "DOLE Whip in a Cone",
+      "description": "Plant-based",
+      "type": "food"
+    },
+    {
+      "name": "Lemon DOLE Whip",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Lime DOLE Whip",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Strawberry DOLE Whip",
+      "description": "",
+      "type": "food"
+    },
+    {
+      "name": "Imagination Cone",
+      "description": "Pink vanilla soft-serve in a lavender cone, “sparks” of imagination, and white chocolate Figment wings",
+      "type": "food"
+    },
+    {
+      "name": "Candy Trio Flight",
+      "description": "DOLE Whip Strawberry with STARBURST MINIS fruit chews, DOLE Whip Lemon with SKITTLES POP’d Original Freeze Dried Candy, and DOLE Whip Lime with chili-lime seasoning and LIFE SAVERS gummies",
+      "type": "food"
+    },
+    {
+      "name": "Liquid Nitrogen Minnie Cake Pop",
+      "description": "Cotton candy sponge cake, white chocolate ganache, and colorful chocolate splats (New)",
+      "type": "food"
+    }
+  ]
+}
+{
+  "booth": "The Craftsman’s Courtyard",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Beef Wellington-inspired Croissant Supreme",
+      "description": "Creamed spinach croissant pinwheel, mushroom-gorgonzola ragoût, mustard-grilled flank steak, red wine sauce, and pickled mustard seeds",
+      "type": "food"
+    },
+    {
+      "name": "Cast Iron-roasted P.E.I. Mussels",
+      "description": "Sautéed tomatoes, garlic, and fresh herbs",
+      "type": "food"
+    },
+    {
+      "name": "BrewDog Black Heart Nitro Oatmeal Stout",
+      "description": "",
+      "type": "beverage"
+    },
+    {
+      "name": "Coffee Old Fashioned Cocktail",
+      "description": "Joffrey’s Cold Brew Coffee, simple syrup, orange bitters, and Jim Beam Kentucky Straight Bourbon Whiskey",
+      "type": "beverage"
+    }
+  ]
+}
+{
+  "booth": "Sunshine Seasons",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "The Architecture of Drip",
+      "description": "Blueberry-flavored gelato topped with scoops of banana and berry whipped cream, a waffle cone, and sprinkles (New)",
+      "type": "food"
+    }
+  ]
+}
+{
+  "booth": "Joffrey’s Coffee & Tea Company",
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "items": [
+    {
+      "name": "Pop Art Latte",
+      "description": "Espresso with choice of milk and vanilla syrup topped with lavender whipped cream and SKITTLES POP’d Original Freeze Dried Candy (Non-alcoholic beverage) (New)",
+      "type": "beverage"
+    },
+    {
+      "name": "Pop Art Latte with Baileys Original Irish Cream Liqueur",
+      "description": "Espresso with choice of milk and vanilla syrup topped with lavender whipped cream and SKITTLES POP’d Original Freeze Dried Candy (Spirited version) (New)",
+      "type": "beverage"
+    }
+  ]
+}
